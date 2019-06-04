@@ -45,7 +45,7 @@ DB_CONFIG = {
         ],
         "password": "<Your password>",
         "port": [
-            "6379"
+            "6900"
         ]
     }
 }
